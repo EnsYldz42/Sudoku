@@ -1,4 +1,4 @@
-# Sudoku<html>
+
   <head>
     <link rel="stylesheet" href="style.css">
     <script src="lib/script.js"></script>
